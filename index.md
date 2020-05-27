@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Chris Achinga
+## My technical articals and sayings
 
-I'm glad you are here. I plan to talk about ...
+Let's learn, master and write
